@@ -1,6 +1,8 @@
 <div align="center">
 
 # Embedded C Static Analyzer
+![Uploading Screenshot From 2026-08-23 20-11-50.png…]()
+
 
 ### Responsive Qt 6 workbench for compiler diagnostics, static analysis, source review, and reproducible embedded-C quality reports
 
