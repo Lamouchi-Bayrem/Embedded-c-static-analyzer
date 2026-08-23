@@ -1,7 +1,8 @@
 <div align="center">
 
 # Embedded C Static Analyzer
-![Uploading Screenshot From 2026-08-23 20-11-50.png…]()
+<img width="1920" height="1080" alt="Screenshot From 2026-08-23 20-11-50" src="https://github.com/user-attachments/assets/04b91f7e-031e-434a-b50a-f2f06853cbcb" />
+
 
 
 ### Responsive Qt 6 workbench for compiler diagnostics, static analysis, source review, and reproducible embedded-C quality reports
