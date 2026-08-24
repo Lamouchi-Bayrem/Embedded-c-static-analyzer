@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # Embedded C Static Analyzer
@@ -411,3 +412,8 @@ Add a `LICENSE` file before public distribution. Do not add a license badge unti
 **Built to make embedded-C analysis clearer, reproducible, and scalable.**
 
 </div>
+=======
+# Embedded Linux Shared Library Makefile Project
+
+Demonstrates GCC, Makefiles, shared libraries, SONAME versioning, symbolic links, and dynamic linking.
+>>>>>>> e78542a (first commit)
